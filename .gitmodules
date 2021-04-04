@@ -1,0 +1,6 @@
+[submodule "Neo23x0"]
+	path = Neo23x0
+	url = https://github.com/johndeedly/yara-Neo23x0
+[submodule "Yara-Rules"]
+	path = Yara-Rules
+	url = https://github.com/johndeedly/yara-Yara-Rules
